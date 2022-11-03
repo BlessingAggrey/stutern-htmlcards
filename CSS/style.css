@@ -1,0 +1,37 @@
+.card-color {
+  color: green;
+}
+
+td {
+  width: 300px;
+}
+
+.label {
+  font-weight: bold;
+  width: 150px;
+  padding: 10px;
+}
+
+.container {
+  margin: auto;
+  width: 500px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    padding: 20px;
+}
+
+.test {
+    display: flex;
+  flex-direction: row;
+}
